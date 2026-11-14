@@ -1,3 +1,15 @@
+#ventana{
+    background:linear-gradient(silver,white);
+    align-items: center;
+    box-shadow: 0.5em 0.5em 0.5em rgba(0,0,0,0.4);
+    display:grid;
+    height:150px;
+    justify-items: center;
+    place-content: center;
+    position:absolute;
+    width:250px;
+
+}
 .borrar{
     
     text-align:right;
